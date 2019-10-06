@@ -1,6 +1,5 @@
-Animation training
-
-used:
+Look at it online:
+https://gripencreutz.github.io/Animation-exercise/
 
 Gsap
 HTML
